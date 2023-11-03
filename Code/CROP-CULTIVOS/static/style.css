@@ -1,0 +1,42 @@
+body {
+    font-family: "Trirong", serif;
+    /* background-color: aliceblue; */
+}
+
+nav > h3{
+    text-align: center;
+    color: white;
+}
+
+nav > img{
+    border-radius: 15px;
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
+}
+
+form{
+    width: 60%;
+    /* background-color: #1268ead4; */
+    /* color: white; */
+    padding: 30px 20px;
+    border-radius: 10px;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#submit-button{
+    background-color: lightpink;
+}
+
+#prediction{
+    padding: 16px 14px;
+    background-color: rgba(0, 128, 0, 0.562);
+    color: white;
+    font-weight: bold;
+}

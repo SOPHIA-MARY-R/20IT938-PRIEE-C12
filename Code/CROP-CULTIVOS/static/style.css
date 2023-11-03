@@ -17,8 +17,8 @@ nav > img{
 
 form{
     width: 60%;
-    /* background-color: #1268ead4; */
-    /* color: white; */
+    background-color: #1268ead4;
+    color: white;
     padding: 30px 20px;
     border-radius: 10px;
 }
